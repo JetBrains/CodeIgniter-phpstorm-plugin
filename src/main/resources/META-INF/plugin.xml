@@ -6,7 +6,7 @@
 
   <description><![CDATA[
       A PhpStorm plugin for CodeIgniter 3 development.
-      Plugin is a fork of <a href="https://github.com/martynassateika/CodeIgniter-phpstorm-plugin">plugin</a> by <a href="url="http://www.martynassateika.lt">Martynas Sateika</a> 
+      Plugin is a fork of <a href="https://github.com/martynassateika/CodeIgniter-phpstorm-plugin">plugin</a> by <a href="https://www.martynassateika.lt">Martynas Sateika</a> 
       and <a href="https://github.com/natanfelles/codeigniter-phpstorm">helpers</a> from <a href="https://natanfelles.github.io/">Natan Felles</a>.
     ]]></description>
 
